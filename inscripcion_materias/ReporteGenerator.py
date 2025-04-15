@@ -1,4 +1,3 @@
-# Clase para generar y mostrar el reporte de inscripciones
 class ReporteGenerator:
     def mostrar_reporte_inscripciones(self, inscripciones: dict):
         """
