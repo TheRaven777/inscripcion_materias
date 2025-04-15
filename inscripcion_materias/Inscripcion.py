@@ -1,7 +1,6 @@
 import Estudiante
 import Materia
 
-# Clase para representar una inscripción en una materia
 class Inscripcion:
     """
     Clase para representar una inscripción.
