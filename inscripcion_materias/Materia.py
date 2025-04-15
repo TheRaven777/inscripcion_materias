@@ -1,4 +1,3 @@
-# Clase para representar una materia
 class Materia:
     """
     Clase para representar una materia.
