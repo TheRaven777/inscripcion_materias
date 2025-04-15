@@ -1,6 +1,5 @@
 import Materia
 
-# Clase para representar un estudiante
 class Estudiante:
     """
     Clase para representar un estudiante.
